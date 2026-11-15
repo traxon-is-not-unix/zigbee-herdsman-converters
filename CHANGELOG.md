@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.133.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.132.0...v26.133.0) (2026-11-15)
+
+
+### Features
+
+* **add:** VB-FTW-A19, VB-RGBTW-A19 ([#13829](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13829)) ([f368dcd](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f368dcd1336b59d88702c98905ba30b7103d9db2))
+
 ## [26.132.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.131.0...v26.132.0) (2026-11-15)
 
 
